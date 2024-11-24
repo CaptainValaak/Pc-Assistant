@@ -1,6 +1,6 @@
 # Pc Optimizer
 
-<img src="./.github/assets/banner.png" alt="pc optimizer" width="100%" />
+<img src="./banner.png" alt="pc optimizer" width="100%" />
 
 Optimize your pc with simple click
 
